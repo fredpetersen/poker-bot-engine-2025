@@ -7,6 +7,7 @@
     "javabot/libs/jackson-core-2.15.2.jar",
     "javabot/libs/jackson-databind-2.9.9.3.jar"
   ],
+  "workbench.activityBar.location": "default",
   "debug.showInStatusBar": "never",
   "taskExplorer.enabledTasks": {
     "ant": false,
