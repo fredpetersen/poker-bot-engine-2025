@@ -11,6 +11,7 @@
   "workbench.statusBar.visible": false,
   "breadcrumbs.enabled": false,
   "workbench.activityBar.location": "default",
+  "workbench.secondarySideBar.defaultVisibility": "hidden",
   "editor.minimap.enabled": false,
   "files.exclude": {
     "**/.devcontainer": true,
